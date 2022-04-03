@@ -7,7 +7,8 @@ var submitBtn = document.querySelector("#submit");
 var showInitials=document.querySelector("#superIn")
 var scoreReal = document.querySelector(".scoreTimer");
 
-// setting our timer
+// Timer Settings
+
 function setTime() {
   var timerInterval = setInterval(function() {
     secondsLeft--;
@@ -22,7 +23,8 @@ function setTime() {
 
   }, 1000); }
 
-// displaying the initials user input
+// initials user input
+
 function pullScore() {
   var myText = document.querySelector("#myText").value;
   localStorage.getItem("myText", myText);
@@ -36,22 +38,22 @@ function pullScore() {
 
 }
 
-// questions variable to loop through
+// questions 
 
 var questions = [
   {
-questionTitle:"How can I create a comment in a Javascript file?",
-Choices:["//Comment" , "'Comment'","</Comment","!!Comment"],
+questionTitle:"How would you create a comment in a Javascript file?",
+Choices:["//Comment" , "'Comment'", "</Comment", "!!Comment!!"],
 Answer:"//Comment"
 }, 
 {
-questionTitle:"Which Javascript popup box lets you select between 'Cancel' or 'Ok' ",
+questionTitle:"Which Javascript popup box selects between 'Cancel' or 'Ok' ",
 Choices:["Alert box" , "Prompt box","Confirm box","Two choice box"],
 Answer:"Confirm box"},
 {
   
   
-questionTitle:"Which type of storage will keep data saved over page refresh?",
+questionTitle:"Which type of storage will keep data saved even when pages refresh?",
 Choices:["Storage unit" , "Refresh storage","Local storage","Global storage"],
 Answer:"Local storage"
 },
@@ -59,8 +61,12 @@ Answer:"Local storage"
 {
   questionTitle:"Which option would call the function 'intheFunction",
   Choices:["call.intheFunction;" , "intheFunction{};","intheFunction();'",".intheFunction;"],
+ 
   Answer:"intheFunction();"
   }
+  
+  
+  
   ];
 
 
