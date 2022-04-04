@@ -1,7 +1,7 @@
 
-[#JS_Quiz](https://shangfii.github.io/JS_Quiz/)
+##[JS_Quiz](https://shangfii.github.io/JS_Quiz/)
 
-Content 
+##Content 
 
 a. [Overview](https://github.com/shangfii/JS_Quiz#overview)
 
