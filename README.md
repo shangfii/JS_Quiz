@@ -5,13 +5,14 @@ JS Quiz
 
 Content 
 
-a. [Overview]
-b. [Technoligies]
+a. [Overview](https://github.com/shangfii/JS_Quiz#overview)
 
-c. [How use this as starter code]
+b. [Technoligies](https://github.com/shangfii/JS_Quiz#technologies-used)
+
+c. [How use this as starter code](https://github.com/shangfii/JS_Quiz#how-to-modify-this-application)
 
 
-d. [License]
+d. [License](https://github.com/shangfii/JS_Quiz/blob/main/LICENSE)
 
 ## Overview
 
