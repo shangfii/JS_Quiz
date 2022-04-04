@@ -48,7 +48,7 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
 Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications
 [learn more](https://code.visualstudio.com/)
 
-5. [Goolge fonts](https://fonts.google.com/)
+5. [Goolge fonts](https://fonts.google.com/). Google provides some fonts that can be added to your app. "Free fonts)
 
 ## How to Modify this application
 
