@@ -5,31 +5,25 @@ JS Quiz
 
 Content 
 
-a. [Overview](https://github.com/shangfii/PasswordGenerator/blob/main/README.md#overview)
+a. [Overview]
+b. [Technoligies]
 
-b. [Technoligies](https://github.com/shangfii/PasswordGenerator/blob/main/README.md#technologies-used)
-
-c. [How use this as starter code](https://github.com/shangfii/PasswordGenerator/blob/main/README.md#how-to-modify-this-application)
+c. [How use this as starter code]
 
 
-d. [License](https://github.com/shangfii/PasswordGenerator/blob/main/LICENSE)
+d. [License]
 
 ## Overview
-This app helps you generate a good and secure password using the criteria of your choice.
-When the app starts, you need to put in the number of characters to include in your password. The number must be between 8 and 128.
-The password genrator will them provide a series of prompts to guid you, and generate a secure passord which you can use any where.
 
-When the app Launches, Click on "Generate Password" to starte ussing the app.
+This app help you test your knowledge on java script. If the you put in the wrong answer, you will lose 10 seconds and when you get the right answer
+you gain 10 seconds. The aim is to have as many seconds a possible left when the game is over. Good luck!
 
-![Password Generator button](https://github.com/shangfii/PasswordGenerator/blob/main/Assets/images/Screen%20Shot%202022-03-20%20at%202.22.31%20PM.png?raw=true)
+To Launch the app and take the quiz; [Click here to take this quize](https://shangfii.github.io/JS_Quiz/) 
 
-
-
-
-[Click here to use the app](https://shangfii.github.io/PasswordGenerator/)
 
 The image below shows how it works:
-![UseCase of Password generator](https://github.com/shangfii/PasswordGenerator/blob/main/Assets/images/useCase.gif?raw=true)
+
+![UseCase of Quiz App](https://github.com/shangfii/JS_Quiz/blob/main/ezgif.com-gif-maker.gif)
 
 
 ## Technologies used:
