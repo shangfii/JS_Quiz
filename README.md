@@ -1,5 +1,6 @@
 
-## [JS_Quiz](https://shangfii.github.io/JS_Quiz/)
+## [JS_Quiz](https://shangfii.github.io/JS_Quiz/). The App that helps you test your knowledge on Javascript. 
+
 
 ## Content 
 
